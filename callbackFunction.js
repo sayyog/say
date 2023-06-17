@@ -2,7 +2,7 @@
 
 function myDetails(arg){
     console.log('My First Function Called')
-    arg()
+    arg();
 }
 
 function callbackFun(){

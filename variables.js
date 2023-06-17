@@ -1,7 +1,7 @@
 //variable
 
 var a = 'sayli';
-console.log(a)
+console.log(a);
 
 let b = 8;
 console.log(b)
